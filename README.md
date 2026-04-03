@@ -1,5 +1,8 @@
 # Selenium IDE
 
+## THIS PROJECT HAS BEEN ABANDONED.  
+## PLEASE MIGRATE TO [SELENIUM BASE](https://github.com/seleniumbase/SeleniumBase)
+
 ![logo](https://www.seleniumhq.org/selenium-ide/img/selenium-ide128.png)
 
 _An integrated development environment for Selenium scripts_
