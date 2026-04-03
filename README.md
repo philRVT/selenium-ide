@@ -1,7 +1,7 @@
 # Selenium IDE
 
 ## THIS PROJECT HAS BEEN ABANDONED.  
-## PLEASE MIGRATE TO [SELENIUM BASE](https://github.com/seleniumbase/SeleniumBase)
+## THE [RECORDER FEATURE WITHIN SELENIUM BASE](https://github.com/seleniumbase/SeleniumBase/blob/master/help_docs/recorder_mode.md) IS THE SUCCESSOR
 
 ![logo](https://www.seleniumhq.org/selenium-ide/img/selenium-ide128.png)
 
